@@ -1,6 +1,2 @@
-Hi there 👋 
+Olaa sou Alison Sousa estudante na ESPM - SP de Relações Internacionais e TECH, acadêmico na Poli-USP de Engenharia de Produção/Materiais e criador de conteúdo de programação e tecnologia!
 
-<!---
-AlisonSousa1997/AlisonSousa1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
