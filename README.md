@@ -11,7 +11,7 @@ Olaa sou Alison Sousa estudante na ESPM - SP de Relações Internacionais e TECH
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <img align="right" alt="Alison-pic" height="150" style="border-radius:50px;" 
-src="https://img.freepik.com/vetores-premium/desenho-de-desenho-animado-de-um-programador_29937-8176.jpg" >
+src="https://redteamacademy.com/whitehat-hacker-jr/wp-content/uploads/2021/03/ehhome_iso_2.svg" >
 </div>
 
 ##
