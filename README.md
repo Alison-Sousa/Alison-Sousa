@@ -14,11 +14,10 @@ Alison Cordeiro Sousa, é estudante de Relações Internacionais da ESPM em São
   ##
 
 <div> 
-  <a href="https://www.instagram.com/aliissonsousa00/" target="_blank"><img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/aliissonsousa00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://drive.google.com/drive/u/0/folders/1rtaa8TKUllIGla77q_FGk8fBuIL7KamI" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a> 
   <a href = "alisoncordeiro1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/drive/u/0/folders/1rtaa8TKUllIGla77q_FGk8fBuIL7KamI" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a> 
-  <a href="http://lattes.cnpq.br/9288908291324739" target="_blank"><img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alison-cordeiro-sousa-09abb81a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alison-cordeiro-sousa-09abb81a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 ![Snake animation](https://github.com/Alison-Sousa/Alison-Sousa/blob/output/github-contribution-grid-snake.svg)
 </div>
