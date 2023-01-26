@@ -12,8 +12,8 @@ Caso queira me conhecer mais acesse esse [link](http://lattes.cnpq.br/9288908291
   <img align="center" alt="Ali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ali-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ali-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+src="https://acadespm-my.sharepoint.com/:i:/g/personal/alison_sousa_acad_espm_br/EWMABjvk1ZRAnuSmT5bvk2IBrk4-2LYF4v_DUTJ98fjpww?e=mSwHOP">
 </div>
 
   ##
