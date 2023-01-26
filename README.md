@@ -16,7 +16,7 @@ Caso queira me conhecer mais acesse esse [link](http://lattes.cnpq.br/9288908291
   <img align="center" alt="Ali-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  ## Redes Sociais
+  ## Redes
 
 <div> 
   <a href="https://github.com/Alison-Sousa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
