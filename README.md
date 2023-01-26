@@ -1,4 +1,4 @@
-Alison Cordeiro Sousa, é estudante de Relações Internacionais da ESPM em São Paulo. Passagens pela Zuyd University of Applied Sciences de Maastricht e na Meiji University de Tóquio. Trabalhou no Ministério das Relações Exteriores. Atualmente, atua na Embaixada da Coreia. Criador de conteúdo de política, economia e TECH!
+Alison Cordeiro Sousa, é estudante de Relações Internacionais da Escola Superior de Propaganda e Marketing (ESPM) em São Paulo. Passagens pela Zuyd University of Applied Sciences de Maastricht e na Meiji University de Tóquio. Trabalhou no Ministério das Relações Exteriores. Atualmente, atua na Embaixada da Coreia. Criador de conteúdo de política, economia e TECH! Caso queira me conhecer acesse esse [link](http://lattes.cnpq.br/9288908291324739)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ali-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
