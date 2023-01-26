@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/andreinaoliveira)
 
 ## Alison Cordeiro Sousa, é estudante de Relações Internacionais da Escola Superior de Propaganda e Marketing (ESPM) em São Paulo. Zuyd University of Applied Sciences de Maastricht e na Meiji University de Tóquio. 
 
@@ -26,5 +25,23 @@ Caso queira me conhecer mais acesse esse [link](http://lattes.cnpq.br/9288908291
   <a href = "alisoncordeiro1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alison-cordeiro-sousa-09abb81a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
+   ## ⭐️ Hard Skills
+<div align="center">
+  <a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
+  <a href="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" target="_blank"><img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c"></a>
+  <a href="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus" target="_blank"><img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus"></a>
+  <a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></a>
+  <a href="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3"></a>
+  <a href="https://img.shields.io/badge/-AOSP-05122A?style=flat&logo=android" target="_blank"><img src="https://img.shields.io/badge/-AOSP-05122A?style=flat&logo=android"></a>
+  <a href="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio" target="_blank"><img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio"></a>
+  <a href="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino"></a>
+  <a href="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium" target="_blank"><img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium"></a>
+  <a href="https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath" target="_blank"><img src="https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath"></a>
+  <a href="https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobexd" target="_blank"><img src="https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobexd"></a>
+  <a href="https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum" target="_blank"><img src="https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum"></a> 
+    
+    
+ 
+    
 ![Snake animation](https://github.com/Alison-Sousa/Alison-Sousa/blob/output/github-contribution-grid-snake.svg)
 </div>
