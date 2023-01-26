@@ -1,6 +1,7 @@
 
-## Alison Cordeiro Sousa, é estudante de Relações Internacionais da Escola Superior de Propaganda e Marketing (ESPM) em São Paulo. Zuyd University of Applied Sciences de Maastricht e na Meiji University de Tóquio. 
+## Sobre 
 
+Alison Cordeiro Sousa, é estudante de Relações Internacionais da Escola Superior de Propaganda e Marketing (ESPM) em São Paulo. Zuyd University of Applied Sciences de Maastricht e na Meiji University de Tóquio. 
 
 Trabalhou no Ministério das Relações Exteriores. Atualmente, atua na Embaixada da Coreia. Criador de conteúdo de política, economia, programação e tecnologia!!!
 Caso queira me conhecer mais acesse esse [link](http://lattes.cnpq.br/9288908291324739)
@@ -15,7 +16,7 @@ Caso queira me conhecer mais acesse esse [link](http://lattes.cnpq.br/9288908291
   <img align="center" alt="Ali-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  ##
+  ## Redes Sociais
 
 <div> 
   <a href="https://github.com/Alison-Sousa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
