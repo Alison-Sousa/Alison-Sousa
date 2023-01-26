@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/andreinaoliveira)
+
 ## Alison Cordeiro Sousa, é estudante de Relações Internacionais da Escola Superior de Propaganda e Marketing (ESPM) em São Paulo. Zuyd University of Applied Sciences de Maastricht e na Meiji University de Tóquio. 
 
 
@@ -13,12 +15,12 @@ Caso queira me conhecer mais acesse esse [link](http://lattes.cnpq.br/9288908291
   <img align="center" alt="Ali-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ali-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Ali-pic" height="150" style="border-radius:50px;" 
-src="https://acadespm-my.sharepoint.com/:i:/g/personal/alison_sousa_acad_espm_br/EWMABjvk1ZRAnuSmT5bvk2IBrk4-2LYF4v_DUTJ98fjpww?e=mSwHOP">
 </div>
 
   ##
 
 <div> 
+  <a href="https://github.com/Alison-Sousa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   <a href="https://www.instagram.com/aliissonsousa00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://drive.google.com/drive/u/0/folders/1rtaa8TKUllIGla77q_FGk8fBuIL7KamI" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a> 
   <a href = "alisoncordeiro1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
