@@ -1,7 +1,7 @@
 
 ## Sobre 
 
-Alison Cordeiro Sousa, é estudante da scola Superior de Propaganda e Marketing (ESPM) de Relações Internacionais em São Paulo. Com passagens acadêmicas na Zuyd University of Applied Sciences de Maastricht e Meiji University de Tóquio. 
+Alison Cordeiro Sousa, é estudante da Escola Superior de Propaganda e Marketing (ESPM) de Relações Internacionais em São Paulo. Com passagens acadêmicas na Zuyd University of Applied Sciences de Maastricht e Meiji University de Tóquio. 
 
 Trabalhou no Ministério das Relações Exteriores. No momento, atua na Embaixada da Coreia e é pesquisador do Instituto de Relações Internacionais da USP. Para saber mais acesse esse [link](http://lattes.cnpq.br/9288908291324739)
 
