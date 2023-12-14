@@ -17,7 +17,6 @@ Te convido a conhecer mais sobre meus projetos.
 
 <div> 
   <a href="https://github.com/Alison-Sousa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
- <a href="https://drive.google.com/drive/folders/1kmqKc8H_s29u5FcWtUo2f-FjELOrRWhH?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a> 
   <a href = "alisoncordeiro1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alison-cordeiro-sousa-09abb81a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     
