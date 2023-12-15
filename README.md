@@ -16,6 +16,5 @@ Te convido a conhecer mais sobre meus projetos.
   ## Redes
 
 <div> 
-  <a href="https://github.com/Alison-Sousa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/alison-cordeiro-sousa-09abb81a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
