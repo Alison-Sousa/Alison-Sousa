@@ -2,10 +2,11 @@
 ## Sobre 
 
 Te convido a conhecer mais sobre meus projetos. 
-<br> Estudos com dados multivariados em Python (IA). Machine Learning, API, WebScreaping.
+<br> Estudos com dados multivariados em Python (IA). Machine Learning, API, WebScreaping, HTML.
 
 
 ## Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Ali-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
