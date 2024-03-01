@@ -1,7 +1,7 @@
 ## About
 <br> Hello!
 
-I am a student of International Relations at ESPM. I have professional experience in investments, programming, and data science. 
+I have professional experience in investments, programming, and data science. 
 
 <br> My research interests include political economy, development, artificial intelligence, and political science.
 
