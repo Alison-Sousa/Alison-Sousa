@@ -3,9 +3,6 @@
 
 I have professional experience in investments, programming, and data science. 
 
-<br> My research interests include political economy, development, artificial intelligence, and political science.
-
-
 ## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
